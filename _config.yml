@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: ESAP部落
+brief-intro: 思想有多远，我们就能走多远
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.iesap.net/" # the base hostname & protocol for your site
+
+permalink: /:year/:month/:day/:title/
+
+# other links
+github_username:  woylyn
+email: woylyn@qq.com
+qq: 332829166
+
+description_footer: 本站为ESAP部落官方站！
+
+# comments
+# two ways to comment, only choose one, and use your own short name
+# 两种评论插件，选一个就好了，使用自己的 short_name
+duoshuo_shortname: woylyn
+#disqus_shortname: woylynblog
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+#baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
+#google_analytics_id: UA-72449510-4 # google 分析追踪id
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+gems: [jekyll-paginate]
+paginate: 5
