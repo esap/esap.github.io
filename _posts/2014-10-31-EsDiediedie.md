@@ -12,7 +12,7 @@ tags:  勤哲 excelserver ES 坑 槽点
 本文为吐槽文，欢迎前排围观，一起来扒一扒ES那些奇葩的坑。
 
 <p align="center">
-  <img src="/img/esdiediedie-1.jpg" width="560">
+  <img src="/img/esdiediedie-1.jpg" width="480">
 </p>
 
 ## 关于版本
