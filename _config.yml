@@ -14,7 +14,7 @@ url: "https://blog.iesap.net/" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-github_username:  woylyn
+github_username:  esap
 email: woylyn@qq.com
 qq: 332829166
 
@@ -23,7 +23,7 @@ description_footer: 本站为ESAP部落官方站！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: woylyn
+duoshuo_shortname: esap
 #disqus_shortname: woylynblog
 
 # statistic analysis 统计代码

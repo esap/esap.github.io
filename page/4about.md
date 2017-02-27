@@ -35,7 +35,7 @@ ERP,MRP,CRM,HRM,SCM,MES,OA技术讨论组
 
 ### 联系我们
 
-* GitHub：[woylyn](https://github.com/woylyn)
+* GitHub：[woylyn](https://github.com/esap)
 * email：woylyn@qq.com
 
 ### 版权
