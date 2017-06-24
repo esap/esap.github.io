@@ -9,7 +9,7 @@
 title: ESAP部落
 brief-intro: 思想有多远，我们就能走多远
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.iesap.net/" # the base hostname & protocol for your site
+url: "http://ylin.wang/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
