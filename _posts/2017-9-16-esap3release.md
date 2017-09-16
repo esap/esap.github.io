@@ -59,7 +59,7 @@ tags:  esap服务器 黑科技 esap 村长 golang erp api 微信公众号 strike
 - 【自定义-小程序】：自定义[小程序应用](https://github.com/esap/miniapp)。
 
 ## 注意事项
-* 3.0版最值得关注的特性之一是通过admin模块可以建库建表，这意味着我们可以轻松植入任意ERP。
+* 3.0版最值得关注的特性之一是通过admin模块可以建库建表，这意味着我们可以轻松植入任意ERP，例如[聚表](bbs.juable.com)等。
 
 * 3.0版目前仅有x64版本，主数据库需要sql2005+(非主库可以是sql2000)。
 
