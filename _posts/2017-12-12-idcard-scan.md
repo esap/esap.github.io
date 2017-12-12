@@ -2,15 +2,11 @@
 layout: post
 title:  "ES调用身份证阅读器实践"
 categories: 日志
-tags:  ES服务器 黑科技 VBA 村长 身份证扫描识别
+tags:  ES服务器 黑科技 VBA 村长 身份证阅读器 身份证扫描识别
 ---
 
 * content
 {:toc}
-
-<p align="center">
-  <img src="/img/esapLinkAll.png">
-</p>
 
 * 好久没有更新博客了，最近收到一台`@宁波-老方`送来的神盾ICR-100U身份证阅读器，于是花了半天捣鼓了一下ES玩转身份证扫描识别。
 
@@ -197,7 +193,7 @@ End Function
 <img src="/img/idcardscan4.jpg">
 
 ## 拓展
-有些童鞋对【插入】按钮的代码感兴趣，这里也一起提供了，嗯，不要谢谢村长，请直接发红包，○( ＾皿＾)っHiahiahia…逃~
+有些童鞋对【插图】按钮的代码感兴趣，这里也一起提供了，嗯，不要谢谢村长，请直接发红包，○( ＾皿＾)っHiahiahia…逃~
 
 ```vb
 Sub IPIC()
