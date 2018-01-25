@@ -22,17 +22,20 @@ ExcelserverRCID是ES表单的内置表单ID，除了ExcelserverRCID，还有:
 ## ExcelserverRCID有什么用
 主要用于工作台显示，一份表单要在工作台显示，那么需要表单上有这个字段值，并且在ES_RepCase表中的rcId字段也存在这个值。
 
-在ESAP3.0的很多sql模板中，都会有这样一段代码：{ {template "repcase"} }，即引用repcase模板。
+在ESAP3.0的很多sql模板中，都会有这样一段代码：\{\{template "repcase"\}\}，即引用repcase模板。
 
 repcase模板(位于sql/esap/es.post)的定义如下：
+
+{% raw %} 
 ```sql
-{ {define "repcase"} }
-  { {if es} }
+{{define "repcase"}}
+  {{if es}}
 	insert es_repcase (rcid,rtid,fillDept,fillDeptName,fillUser,fillUserName,state,fillDate,lstFiller,lstFillerName,lstFillDate) 
 	values(:rcid,:rtid,1,'esap',1,'esap',1,getdate(),1,'esap',getdate())
-  { {end} }
-{ {end} }
+  {{end}}
+{{end}}
 ```
+{% endraw %} 
 
 其实就是在检查是否是ES库模式，如果是就尝试插入记录到ES_RepCase表，实现工作台显示。
 
