@@ -9,7 +9,7 @@ icon: heart
 {:toc}
 
 ### 关注我们
-ESAP部落QQ群号：[275205931](http://shang.qq.com/wpa/qunwpa?idkey=8065d28ea0b39649052de5d2aeab377014d268a5a9fa7463d4873b205233aaff)<<点击加入
+ESAP达摩院QQ群号：[275205931](http://shang.qq.com/wpa/qunwpa?idkey=8065d28ea0b39649052de5d2aeab377014d268a5a9fa7463d4873b205233aaff)<<点击加入
 
 ![](/img/qqq.png)<<扫描加入
 
@@ -17,7 +17,7 @@ ESAP部落微信公众号：ESAPbuluo
 
 ![](/img/wx.jpg)
 
-PS:本部落禁止广告，推广慎入。
+PS:本院部落禁止广告，推广慎入。
 
 —–部落分割线---
 
@@ -25,7 +25,7 @@ PS:本部落禁止广告，推广慎入。
 
 [《ESAP部落宝典》](https://esbook.erp8.net)隆重推出，集部落智慧精华，托管于github，欢迎观摩学习
 
-主要涉及EXCEL服务器,勤哲,快表,雅奇,狐表等企业级信息系统的架构和开发。
+主要涉及EXCEL服务器,聚表,勤哲,快表,雅奇,狐表等企业级信息系统的架构和开发。
 
 ERP,MRP,CRM,HRM,SCM,MES,OA技术讨论组
 

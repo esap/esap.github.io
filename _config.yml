@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ESAP部落
+title: ESAP达摩院
 brief-intro: 思想有多远，我们就能走多远
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ylin.wang/" # the base hostname & protocol for your site
@@ -18,7 +18,7 @@ github_username:  esap
 email: woylyn@qq.com
 qq: 332829166
 
-description_footer: 本站为ESAP部落官方站！
+description_footer: 本站为ESAP达摩院官方站！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
