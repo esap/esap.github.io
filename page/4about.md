@@ -9,7 +9,7 @@ icon: heart
 {:toc}
 
 ### 关注我们
-ESAP达摩院QQ群号：[275205931](http://shang.qq.com/wpa/qunwpa?idkey=8065d28ea0b39649052de5d2aeab377014d268a5a9fa7463d4873b205233aaff)<<点击加入
+ESAP达摩院QQ群号：[365159025](http://shang.qq.com/wpa/qunwpa?idkey=130e97346aa11da4690999c9c91e3350e8673cb9c8fcf5df7c8f11d78ee73522)<<点击加入
 
 ![](/img/qqq.png)<<扫描加入
 
