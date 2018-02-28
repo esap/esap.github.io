@@ -2,7 +2,7 @@
 layout: post
 title:  "那些年遇过的X哲销售"
 categories: 日志
-tags:  excel服务器 excelserver 某些垃圾销售 吐槽
+tags:  excel服务器 excelserver
 ---
 
 * content
