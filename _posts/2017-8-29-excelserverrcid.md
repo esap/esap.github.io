@@ -60,7 +60,9 @@ repcase模板(位于sql/esap/es.post)的定义如下：
 
 2. 完成映射以后，可以把物理表中的字段2删掉，没有任何影响！
 
-3. 如果要提数中使用ExcelserverRCID，其实可以直接手工输入，不映射也能使用哦！
+3. 如果要提数中使用ExcelserverRCID，其实可以直接`手工输入`，不映射也能使用哦！
+![](/img/rcid-5.png)
+![](/img/rcid-6.png)
 
 * by @一零村长
 
