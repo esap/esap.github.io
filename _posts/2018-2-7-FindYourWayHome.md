@@ -2,7 +2,7 @@
 layout: post
 title:  "【ESAP达摩院】QQ群封停风波"
 categories: 日志
-tags:  聚表 ESAP
+tags:  ESAP
 ---
 
 * content

@@ -2,7 +2,7 @@
 layout: post
 title:  "黑科技强袭！ESAP3.0"
 categories: 日志
-tags:  聚表 esap 黑科技 golang erp api 微信
+tags:  go语言 聚表 esap 黑科技 golang erp api 微信
 ---
 
 * content
