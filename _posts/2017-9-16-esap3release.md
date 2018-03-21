@@ -2,7 +2,7 @@
 layout: post
 title:  "黑科技强袭！ESAP3.0"
 categories: 日志
-tags:  esap服务器 黑科技 esap 村长 golang erp api 微信公众号 strike
+tags:  聚表 esap服务器 黑科技 esap 村长 golang erp api 微信公众号 strike
 ---
 
 * content

@@ -2,7 +2,7 @@
 layout: post
 title:  "我与ES不吐不快的槽"
 categories: log
-tags:  勤哲 excelserver ES 坑 槽点
+tags:  聚表 X哲 excelserver ES 坑 槽点
 ---
 
 * content

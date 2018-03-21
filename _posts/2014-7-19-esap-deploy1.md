@@ -2,7 +2,7 @@
 layout: post
 title:  "ESAP部署实录"
 categories: es解决方案
-tags:  勤哲 excelserver ESAP 集群部署 
+tags:  聚表 X哲 excelserver ESAP 集群部署 
 ---
 
 * content
