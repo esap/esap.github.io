@@ -2,7 +2,7 @@
 layout: post
 title:  "移花接木暗黑版(映射ExcelserverRCID)"
 categories: 日志
-tags:  excel服务器 excelserver ExcelserverRCID 映射 暗黑科技
+tags:  excel服务器 excelserver 映射 黑科技
 ---
 
 * content
