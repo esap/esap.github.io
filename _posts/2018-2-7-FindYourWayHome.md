@@ -20,7 +20,7 @@ tags:  ESAP
 ## 重组
 * 这类封号是无解的，好吧，立马重组新群，本来还想群克隆一下，蛋疼的是没法克隆，那就一个个加吧，60%的用户都拉一遍，剩下的就等主动来找回家的路了。
 
-* <span style="color:red">新技术讨论QQ群(ESAP-达摩院)：[365159025](http://shang.qq.com/wpa/qunwpa?idkey=130e97346aa11da4690999c9c91e3350e8673cb9c8fcf5df7c8f11d78ee73522) <<点击加入</span>
+* <span style="color:red">新技术讨论QQ群(ESAP水镜禅院)：[365159025](http://shang.qq.com/wpa/qunwpa?idkey=130e97346aa11da4690999c9c91e3350e8673cb9c8fcf5df7c8f11d78ee73522) <<点击加入</span>
 
 ## 预案
 **为了防止世界再度被破坏，为了维护世界的和平，贯彻爱与真实的开车，可爱又迷人的ESAP。**
