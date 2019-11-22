@@ -2,7 +2,7 @@
 layout: post
 title:  "ESAP部署实录"
 categories: es解决方案
-tags:  聚表 excel服务器 excelserver ESAP 集群 
+tags:  聚表 慧表 excel服务器 excelserver ESAP 集群 
 ---
 
 * content
