@@ -56,8 +56,6 @@ ESAP标准设计规范
 
 映射打印模板，映射查询模板，映射报表模板，一表流，让后期管理变轻松。
 
-![](/img/log25-2.png)
-
 ## 从零开发ERP|六、移动化
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1Pf4y1U7ma&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -98,6 +96,7 @@ ESAP标准设计规范
 
 * 最后三个章节深挖算法和细节，实现高级功能。
 
-最后，第二季视频已经开播了，欢迎关注村长的B站。
 
-[https://space.bilibili.com/399421687)
+**最后，第二季视频已经开播了，欢迎关注村长的B↓↓↓**
+
+[https://space.bilibili.com/399421687](https://space.bilibili.com/399421687)
