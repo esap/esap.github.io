@@ -25,6 +25,7 @@ tags:  ESAP 慧表 nxapp nx 视频教程 bilibili 第一季
 针对框架表进行算法设计，从零建设库存系统
 
 参考阅读：[ESAP第六弹-精简的艺术](http://blog.erp8.net/2013/09/19/esap6/)
+
 参考阅读：[ESAP第十三弹-视图盛宴](http://blog.erp8.net/2014/09/08/esap13/)
 
 ## 从零开发ERP|三、快速建模
@@ -36,8 +37,11 @@ tags:  ESAP 慧表 nxapp nx 视频教程 bilibili 第一季
 使用标准模板，复制映射到框架表，快速裂变业务模板，一生二，二生三，三生ERP
 
 参考阅读：[ESAP第二弹-数据映射](http://blog.erp8.net/2013/08/13/esap2/)
+
 参考阅读：[ESAP第十一弹-通用审核工作流](http://blog.erp8.net/2014/04/03/esap11/)
+
 参考阅读：[聚慧秘籍：工作流数据随时修正](http://blog.erp8.net/2018/06/15/ju3/)
+
 参考阅读：[ESAP高级教程|映射+提醒代替工作流方案](http://blog.erp8.net/2019/03/07/esap2a/)
 
 ## 从零开发ERP|四、数据规范
